@@ -33,3 +33,5 @@ print(find_first_solution(input_file))
 print('second solution')
 print(find_second_solution(input_file))
 
+# if nmin-1 < 0 or nmax-1 >= len(password):
+#    print(line)
